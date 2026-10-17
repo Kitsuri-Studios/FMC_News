@@ -5,7 +5,7 @@
   "body": "Notice text goes here. This area scrolls if it does not fit.",
   "start": "",
   "end": "",
-  "repeat": "once",
+  "repeat": "repeat",
   "every_days": 3,
   "max_shows": 0,
   "required": false,
