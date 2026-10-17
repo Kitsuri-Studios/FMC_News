@@ -1,0 +1,20 @@
+{
+  "id": "hello-1",
+  "enabled": true,
+  "title": "Notice title",
+  "body": "Notice text goes here. This area scrolls if it does not fit.",
+  "start": "",
+  "end": "",
+  "repeat": "once",
+  "every_days": 3,
+  "max_shows": 0,
+  "required": false,
+  "image": "",
+  "image_pos": "left",
+  "btn1_label": "Discord",
+  "btn1_url": "https://kitsuri.dev/discord",
+  "btn1_action": "",
+  "btn2_label": "",
+  "btn2_url": "",
+  "btn2_action": ""
+}
